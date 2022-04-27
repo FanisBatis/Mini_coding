@@ -1,0 +1,168 @@
+        body {
+            font-family: manrope;
+        }
+        
+        header {
+            background-color: white;
+            border-bottom: 1px solid #A0A9BA;
+            height: 48px;
+        }
+        
+        .smellycat_header {
+            margin-top: 9px;
+        }
+        
+        .nav-item {
+            color: #555555;
+            font-size: 14px;
+            letter-spacing: -0.17px;
+            line-height: 48px;
+            text-align: center;
+            padding: 9px 22.5px 0px 22.5px;
+        }
+        
+        footer {
+            background-color: black;
+            height: 174px;
+        }
+        
+        .smellycat_footer {
+            width: 157px;
+            height: 30px;
+            margin-top: 57px;
+        }
+        
+        #footer_menu_text {
+            color: white;
+            font-size: 14px;
+            letter-spacing: -0.17px;
+        }
+        
+        .copyright_text {
+            color: white;
+            font-size: 12px;
+            letter-spacing: -0.15px;
+            line-height: 22.5px;
+        }
+        
+        .text-center {
+            margin-bottom: 24px;
+        }
+        
+        p {
+            line-height: 48px;
+            font-size: 40px;
+            letter-spacing: -0.5px;
+            padding-top: 9%;
+            font-family: manrope;
+        }
+        
+        .text {
+            font-size: 18px;
+            letter-spacing: -0.22px;
+            line-height: 27px;
+            font-weight: 900;
+            font-family: manrope;
+        }
+        
+        .form {
+            float: right;
+            margin-right: 16%;
+            width: 325px;
+            line-height: 40px;
+            font-family: Manrope;
+            border-radius: 5px;
+            border: 1px solid #A0A9BA;
+            font-size: 18px;
+        }
+        
+         ::placeholder {
+            /* font-style: normal; */
+            color: #A0A9BA;
+        }
+        
+        .formtext {
+            font-size: 14px;
+            letter-spacing: -0.17px;
+            line-height: 40px;
+        }
+        
+        .line {
+            background-color: #D8D8D8;
+            height: 2px;
+            border: none;
+            margin-right: 85px;
+        }
+        
+        .form2 {
+            line-height: 40px;
+            font-family: Manrope;
+            border-radius: 5px;
+            border: 1px solid #A0A9BA;
+            width: 172px;
+        }
+        
+        .formtext2 {
+            font-size: 14px;
+            letter-spacing: -0.17px;
+            line-height: 25px;
+        }
+        
+        .check {
+            height: 24px;
+            width: 24px;
+            border: black;
+        }
+        
+        .terms {
+            color: #555555;
+            font-family: Manrope;
+            font-size: 14px;
+            letter-spacing: -0.2px;
+            margin-bottom: 46px;
+            margin-left: 40px;
+            margin-top: -28px;
+        }
+        
+        .messageform {
+            padding-right: 300px;
+            padding-bottom: 168px;
+            font-family: Manrope;
+            border-radius: 5px;
+            border: 1px solid #A0A9BA;
+        }
+        
+        .map-container {
+            width: 476px;
+            height: 416px;
+            margin: 130px auto 0px auto;
+        }
+        
+        .map-container iframe {
+            background-color: #FFFFFF;
+            border: 1px solid #CCCCCC;
+            border-radius: 8px;
+            width: 476px;
+            height: 416px;
+            position: absolute;
+        }
+        
+        .head {
+            text-align: right;
+            color: #000000;
+            font-family: Manrope;
+            font-size: 24px;
+            letter-spacing: -0.3px;
+            line-height: 27px;
+            margin-right: 35px;
+        }
+        
+        .address {
+            text-align: right;
+            color: #000000;
+            font-family: Manrope;
+            font-size: 18px;
+            letter-spacing: -0.22px;
+            line-height: 27px;
+            margin-right: 35px;
+        }
